@@ -20,6 +20,6 @@ run python app
   streamlit run app.py
 ```
 
-Sample Output:
+## Sample Output:
 
 ![Screenshot 2024-02-13 at 8 15 22 PM](https://github.com/sidguptasid/Cricket-Chat-Bot/assets/132853979/5e8fec8d-0ea0-4f5c-b904-b2a2b2de844c)
